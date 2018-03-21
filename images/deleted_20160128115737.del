@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rde-dm:import-list>
+<rde-dm:import>
+<rde-dm:reference type="delete">global_shop_2015.png</rde-dm:reference>
+<rde-dm:reference type="delete">2015_media_kit_dr.jpg</rde-dm:reference>
+</rde-dm:import>
+</rde-dm:import-list>
